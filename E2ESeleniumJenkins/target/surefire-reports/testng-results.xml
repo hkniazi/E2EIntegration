@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="40884" started-at="2021-03-16T14:35:48Z" finished-at="2021-03-16T14:36:29Z">
+  <suite name="Suite" duration-ms="68417" started-at="2021-03-18T15:44:14Z" finished-at="2021-03-18T15:45:22Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="40884" started-at="2021-03-16T14:35:48Z" finished-at="2021-03-16T14:36:29Z">
+    <test name="Test" duration-ms="68417" started-at="2021-03-18T15:44:14Z" finished-at="2021-03-18T15:45:22Z">
       <class name="testcases.TC_002">
-        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_002@453da22c]" name="testcase1" duration-ms="27647" started-at="2021-03-16T10:35:48Z" finished-at="2021-03-16T10:36:16Z">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_002@453da22c]" name="testcase1" duration-ms="35878" started-at="2021-03-18T11:44:14Z" finished-at="2021-03-18T11:44:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
       </class> <!-- testcases.TC_002 -->
       <class name="testcases.TC_001">
-        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_001@1176dcec]" name="testcase1" duration-ms="13218" started-at="2021-03-16T10:36:16Z" finished-at="2021-03-16T10:36:29Z">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:testcases.TC_001@1176dcec]" name="testcase1" duration-ms="32518" started-at="2021-03-18T11:44:49Z" finished-at="2021-03-18T11:45:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
